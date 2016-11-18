@@ -1,0 +1,24 @@
+#leftSide {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+
+}
+#rightSide {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 500px;
+    border-left: 5px solid black;
+
+}
+
+#img {
+    position: absolute;
+    height: 100px;
+
+}
+div {
+    background-image: url("grass.jpg");
+
+}
