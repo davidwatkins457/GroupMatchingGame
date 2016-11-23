@@ -9,16 +9,22 @@
     width: 500px;
     height: 500px;
     left: 500px;
-    border-left: 5px solid black;
+    border-left: 1px solid black;
 
 }
 
-#img {
+img {
     position: absolute;
-    height: 100px;
+    height: 150px;
+    width: 150px;
 
 }
-div {
+ div {
     background-image: url("grass.jpg");
+    }
 
+
+h3 {
+    position: relative;
+    color: forestgreen;
 }
